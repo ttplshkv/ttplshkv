@@ -55,7 +55,7 @@ I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer*
 
 ---
 
-## 💡 Some facts
+## Some facts
 
 - 🎵 like listening to classic music while coding
 - ☕ cannot live without coffee
@@ -65,6 +65,6 @@ I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer*
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](./FooterGif.gif)
 
 </div>
