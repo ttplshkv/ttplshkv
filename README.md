@@ -61,8 +61,6 @@ I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer*
 - ☕ cannot live without coffee
 - 🌱 try to learn something new all the time!
 - 🏯 study Japanese and teach English
----
-
 <div align="center">
 
 ![Footer](./FooterGif.gif)
