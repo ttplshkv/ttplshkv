@@ -1,6 +1,6 @@
 ## Konnichiwa! 🙏
 
-I'm a junior frontend-developer. I'm using: (https://www.typescriptlang.org/), https://developer.mozilla.org/ru/docs/Web/JavaScript
+I'm a junior frontend-developer. I'm using: (https://www.typescriptlang.org/) , https://developer.mozilla.org/ru/docs/Web/JavaScript
 
   
 Here are some ideas to get you started:
