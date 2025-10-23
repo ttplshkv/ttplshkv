@@ -1,8 +1,8 @@
-## Hi there 👋
+## Konnichiwa! 🙏
 
-<!--
-**ttplshkv/ttplshkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior frontend-developer. I'm using: (https://www.typescriptlang.org/), https://developer.mozilla.org/ru/docs/Web/JavaScript
 
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
