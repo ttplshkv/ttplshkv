@@ -37,8 +37,9 @@ I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer*
 
 | project | description | technos | status |
 |--------|----------|------------|--------|
-| [Yusaza](https://github.com/ttplshkv/yusaza) | a simple website for ordering rolls and pizza from a restaurant, with the implementation of receiving requests for orders | React, TypeScript, Material UI, React Hooks | ✅ done |
+| [Yusaza](https://github.com/ttplshkv/yusaza) | a simple website for ordering rolls and pizza from a restaurant, with the implementation of receiving requests for orders | React, TypeScript, Material UI, React Hooks, npm | ✅ done |
 | TheraProgress | a commercial project for organizations that work with children with ASD. In this project, protocols are being created (with the ability to attach materials) for sessions with percentage calculations, and a schedule based on sessions. Implemented a notification system (badge). | React, React Native, TypeScript, Socket.io, axios, Material UI, Figma, | ✅ done |
+| [CommWebSite](https://github.com/ttplshkv/MedicalWebSite) | is a simple, role-based frontend (Admin, Curator, Teacher, Child), with pages for authentication-like entry, entity lists, and basic create flows. | Vanilla JS, HTML, CSS, REST API, npm | ✅ done |
 
 </div>
 
