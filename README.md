@@ -16,7 +16,7 @@ I graduated 21 school and I'm **junior frontend-developer**.
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />](https://developer.mozilla.org/docs/Web/CSS)
 [<img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="50" height="50" alt="SCSS" title="SCSS" />](https://sass-scss.ru/guide/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Native" title="React Native" />](https://reactnative.dev/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="angular" title="angular" />](https://reactnative.dev/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="angular" title="angular" />](https://angular.dev/overview)
 
 ### What i use for backending & my tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" title="Node.js" />](https://nodejs.org/)
