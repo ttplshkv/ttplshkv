@@ -5,7 +5,7 @@
 </div>
 
 ## Konnichiwa! 🙏 
-I graduated 21 school and I'm **junior frontend-developer**. 
+I graduated 21 school and I'm **frontend-developer**. 
 
 
 ### What I use for frontending
