@@ -5,7 +5,7 @@
 </div>
 
 ## Konnichiwa! 🙏 
-I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer**. 
+I graduated 21 school and I'm **junior frontend-developer**. 
 
 
 ### What I use for frontending
@@ -14,7 +14,9 @@ I'm studing at 21 school (almost graduated) and I'm **junior frontend-developer*
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />](https://developer.mozilla.org/docs/Web/JavaScript)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />](https://developer.mozilla.org/docs/Web/HTML)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />](https://developer.mozilla.org/docs/Web/CSS)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scss/scss-original.svg" width="50" height="50" alt="CSS3" title="sCSS" />](https://developer.mozilla.org/docs/Web/CSS)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Native" title="React Native" />](https://reactnative.dev/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="angular" title="angular" />](https://reactnative.dev/)
 
 ### What i use for backending & my tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" title="Node.js" />](https://nodejs.org/)
