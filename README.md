@@ -1,10 +1,4 @@
-<div align="center">
-
-![Hello Kitty](./HelloKittyGif.gif)
-
-</div>
-
-## Konnichiwa! 🙏 
+## Hi! 🙏 
 I graduated 21 school and I'm **frontend-developer**. 
 
 
